@@ -1,0 +1,9 @@
+{
+  "name": "area-tecnica-labs",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "audit": "node audit/run.mjs"
+  }
+}
